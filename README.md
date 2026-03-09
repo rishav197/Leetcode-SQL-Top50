@@ -11,6 +11,14 @@
 | 3 | Big Countries |  | Easy | [view](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/big_countries.txt) | 
 | 5 | Invalid Tweets |  | Easy | [view](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/invalid_tweets.txt) | 
 
+
+
+### Basic JOINS
+|S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|------|---------|---------------------|-------|------|----------|
+
+
+
 <!-- 
 | 1 | Recyclable |  | Easy | [view]() | [view]() | 
 -->
