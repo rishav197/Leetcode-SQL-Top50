@@ -23,7 +23,10 @@
 | 10 | Average Time of Process per Machine |  | Easy | [view](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/avg_time_of_process_per_time.sql) | 
 | 11 | Employee Bonus |  | Easy | [view](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/emp_bonus.sql) | 
 | 12 | Students and Examinations |  | Easy | [view](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/students_n_examinations.sql) | 
+| 13 | Managers with at Least 5 Direct Reports |  | Medium | [view](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/managers_with_atleast_5_reports.sql) | 
+| 14 | Confirmation Rate |  | Medium | [view](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/confirmations_rate.sql) | 
+
 
 <!-- 
-| 1 | Recyclable |  | Easy | [view]() | [view]() | 
+| 1 | hack |  | Easy | [view]() | [view]() | 
 -->
