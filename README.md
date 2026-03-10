@@ -27,6 +27,9 @@
 | 14 | Confirmation Rate |  | Medium | [view](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/confirmations_rate.sql) | 
 
 
+### Basic Aggregate Functions 
+
+
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
