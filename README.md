@@ -28,7 +28,8 @@
 
 
 ### Basic Aggregate Functions 
-
+| 15 | Not Boring Movies |  | Easy | [view](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/not_boring_movies.sql) | 
+| 16 | Average Selling Price |  | Easy | [view](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/avg_selling_price.sql) | 
 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
