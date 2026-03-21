@@ -59,6 +59,10 @@
 | 30 | The No. of Employees Which Report to Each Employee |  | Easy | [view](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/no_of_emp_which_report_to_each_emp.sql) | 
 | 31 | Primary Department for Each Employee |  | Easy | [view](https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/primary_dept_for_each_emp.sql) | 
 | 32 | Triangle Judgement |  | Easy | [view](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/triangle_judgement.sql) | 
+| 33 | Consecutive Numbers |  | Medium | [view](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/consecutive_nums.sql) | 
+| 34 | Product Price at a Given Date (IMP) |  | Medium | [view](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/prod_price_at_a_given_date.sql) | 
+| 35 | Last Person to Fit in the Bus (IMP) |  | Medium | [view](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/last_person_at_a_given_date.sql) | 
+| 36 | Count Salary Categories |  | Medium | [view](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/count_salary_categories.sql) | 
 
 
 <!-- 
