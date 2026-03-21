@@ -53,6 +53,12 @@
 | 29 | Customers Who Bought All Products |  | Medium | [view](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/customers_who_bought_all_prods.sql) | 
 
 
+### Advanced Select and Joins
+| S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|-------|---------|---------------------|-------|------|----------|
+| 30 | The No. of Employees Which Report to Each Employee |  | Easy | [view](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/no_of_emp_which_report_to_each_emp.sql) | 
+| 31 | Primary Department for Each Employee |  | Easy | [view](https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/primary_dept_for_each_emp.sql) | 
+| 32 | Triangle Judgement |  | Easy | [view](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/triangle_judgement.sql) | 
 
 
 <!-- 
