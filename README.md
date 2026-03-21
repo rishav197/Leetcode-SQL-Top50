@@ -35,6 +35,8 @@
 | 17 | Project Employees I |  | Easy | [view](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/proj_employees_I.sql) | 
 | 18 | Percentage of Users Attended a Contest |  | Easy | [view](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/percentage_of_users_attended_a_contest.sql) | 
 | 19 | Queries Quality and Percentage | IF(), groupby, agg func used | Easy | [view](https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/queries_quality_n_percentage.sql) | 
+| 20 | Monthly Transactions I | date_format(), IF(), and Aggregate Func used | Easy | [view](https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/monthly_trans_I.sql) | 
+| 21 | Immediate Food Delivery II |  | Easy | [view](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/immediate_food_delivery_II.sql) | 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
