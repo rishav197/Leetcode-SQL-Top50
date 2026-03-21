@@ -65,6 +65,13 @@
 | 36 | Count Salary Categories |  | Medium | [view](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_Select_and_Joins/count_salary_categories.sql) | 
 
 
+### Subqueries
+| S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|-------|---------|---------------------|-------|------|----------|
+| 37 | Employees Whose Manager Left the Company |  | Easy | [view](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/employees_whose_manager_left.sql) | 
+| 38 | Exchange Seats |  | Medium | [view](https://leetcode.com/problems/exchange-seats/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/exchange_seats.sql) | 
+
+
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
