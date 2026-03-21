@@ -28,8 +28,8 @@
 
 
 ### Basic Aggregate Functions 
-|S.No. | Problem | Approach/Logic used | Level | Link | Solution |
-|------|---------|---------------------|-------|------|----------|
+| S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|-------|---------|---------------------|-------|------|----------|
 | 15 | Not Boring Movies |  | Easy | [view](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/not_boring_movies.sql) | 
 | 16 | Average Selling Price | IFNULL(), join, agg func used | Easy | [view](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/avg_selling_price.sql) | 
 | 17 | Project Employees I |  | Easy | [view](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Basic_Aggregate_Functions/proj_employees_I.sql) | 
@@ -41,3 +41,9 @@
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
+
+
+### Sorting and Grouping 
+| S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|-------|---------|---------------------|-------|------|----------|
+| 23 | No. of Unique Subjects Taught by Each Teacher |  | Easy | [view](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/no_of_unique_sub_taught_by_each_teacher.sql) | 
