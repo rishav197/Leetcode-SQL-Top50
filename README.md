@@ -70,6 +70,8 @@
 |-------|---------|---------------------|-------|------|----------|
 | 37 | Employees Whose Manager Left the Company |  | Easy | [view](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/employees_whose_manager_left.sql) | 
 | 38 | Exchange Seats |  | Medium | [view](https://leetcode.com/problems/exchange-seats/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/exchange_seats.sql) | 
+| 39 | Movie Rating (IMP) |  | Medium | [view](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/movie_rating.sql) | 
+| 40 | Restaurant Growth (IMP) |  | Medium | [view](https://leetcode.com/problems/restaurant-growth/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/restaurant_growth.sql) | 
 
 
 <!-- 
