@@ -74,6 +74,7 @@
 | 40 | Restaurant Growth (IMP) |  | Medium | [view](https://leetcode.com/problems/restaurant-growth/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/restaurant_growth.sql) | 
 | 41 | Friend Requests II: Who Has the Most Friends | using UNION ALL | Medium | [view](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/friend_request_II.sql) | 
 
+
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
