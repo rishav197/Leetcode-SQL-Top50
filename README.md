@@ -78,7 +78,7 @@
 
 
 
-### Subqueries
+### Advanced String Functions / Regex / Clause
 | S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |-------|---------|---------------------|-------|------|----------|
 | 44 | Fix Names in a Table |  | Easy | [view](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/fix_names_in_a_table.sql) | 
