@@ -74,6 +74,7 @@
 | 40 | Restaurant Growth (IMP) |  | Medium | [view](https://leetcode.com/problems/restaurant-growth/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/restaurant_growth.sql) | 
 | 41 | Friend Requests II: Who Has the Most Friends | using UNION ALL | Medium | [view](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/friend_request_II.sql) | 
 | 42 | Investments in 2016 |  | Medium | [view](https://leetcode.com/problems/investments-in-2016/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/investments_in_2016.sql) | 
+| 43 | Department Top Three Salaries |  | Hard | [view](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Subqueries/department_top_three_salaries.sql) | 
 
 
 <!-- 
