@@ -84,8 +84,8 @@
 | 44 | Fix Names in a Table |  | Easy | [view](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/fix_names_in_a_table.sql) | 
 | 45 | Patients With a Condition (IMP) |  | Easy | [view](https://leetcode.com/problems/patients-with-a-condition/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/patients_with_a_condition.sql) | 
 | 46 | Delete Duplicate Emails (IMP) |  | Easy | [view](https://leetcode.com/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/delete_duplicate_emails.sql) | 
-| 47 | Second Highest Salary (IMP) | 4 approaches used | Easy | [view](https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/second_highest_salary.sql) | 
-| 48 | Group Sold Products By The Date |  | Easy | [view](https://leetcode.com/problems/group-sold-products-by-the-date/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/group_sold_prod_by_the_date.sql) | 
+| 47 | Second Highest Salary (IMP) | 4 approaches used | Medium | [view](https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/second_highest_salary.sql) | 
+| 48 | Group Sold Products By The Date (IMP) |  | Easy | [view](https://leetcode.com/problems/group-sold-products-by-the-date/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/group_sold_prod_by_the_date.sql) | 
 
 
 <!-- 
