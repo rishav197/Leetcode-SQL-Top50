@@ -87,7 +87,7 @@
 | 47 | Second Highest Salary (IMP) | 4 approaches used | Medium | [view](https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/second_highest_salary.sql) | 
 | 48 | Group Sold Products By The Date (IMP) |  | Easy | [view](https://leetcode.com/problems/group-sold-products-by-the-date/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/group_sold_prod_by_the_date.sql) | 
 | 49 | List the Products Ordered in a Period |  | Easy | [view](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/list_the_prods_ordered_in_a_period.sql) | 
-| 50 | Find Users with Valid E-Mails |  | Easy | [view](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/find_users_with_valid_emails.sql) | 
+| 50 | Find Users with Valid E-Mails (IMP) | regex concept used | Easy | [view](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/find_users_with_valid_emails.sql) | 
 
 
 <!-- 
