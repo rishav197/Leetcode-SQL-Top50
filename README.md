@@ -9,6 +9,7 @@
 | 1 | Recyclable and Low Fat Products |  | Easy | [view](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/recyclable_and_low_fat_prod.sql) |
 | 2 | Find Customer Referee |  | Easy | [view](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/find_customer_referee.sql) | 
 | 3 | Big Countries |  | Easy | [view](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/big_countires.sql) | 
+| 4 | Article Views I |  | Easy | [view](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/article_views_I.sql) | 
 | 5 | Invalid Tweets |  | Easy | [view](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Select/invalid_tweets.sql) | 
 
 
