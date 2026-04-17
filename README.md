@@ -50,7 +50,7 @@
 | 25 | Product Sales Analysis III |  | Medium | [view](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/prod_sales_analysis_III.sql) | 
 | 26 | Classes with at least 5 Students |  | Easy | [view](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/classes_with_at_least_5_students.sql) | 
 | 27 | Find Followers Count |  | Easy | [view](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/find_followers_count.sql) | 
-| 28 | Biggest Single Number |  | Easy | [view](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/biggest_single_num.sql) | 
+| 28 | Biggest Single Number (IMP) |  | Easy | [view](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/biggest_single_num.sql) | 
 | 29 | Customers Who Bought All Products |  | Medium | [view](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Sorting_and_Grouping/customers_who_bought_all_prods.sql) | 
 
 
