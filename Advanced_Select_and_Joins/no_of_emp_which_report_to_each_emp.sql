@@ -1,3 +1,11 @@
+select emp1.employee_id, emp1.name, count(*) as reports_count, round(avg(emp2.age), 0) as average_age  
+from Employees emp1, Employees emp2
+where emp1.employee_id=emp2.reports_to
+group by emp1.employee_id
+order by emp1.employee_id;
+
+
+-- approach : a bit diff approach
 select 
     e1.employee_id, 
     e1.name, 
