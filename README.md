@@ -95,6 +95,8 @@
 | S.No. | Problem | Approach/Logic used | Level | Link | Solution |
 |-------|---------|---------------------|-------|------|----------|
 | 51 | Employees earning more than their Managers |  | Easy | [view](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Employees_earning_more_than_their_managers.sql) | 
+| 52 | Duplicate Emails |  | Easy | [view](https://leetcode.com/problems/duplicate-emails/description/) | [view]() |
+| 52 | hack |  | Easy | [view]() | [view]() |
 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
