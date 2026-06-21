@@ -91,6 +91,11 @@
 | 50 | Find Users with Valid E-Mails (IMP) | regex concept used | Easy | [view](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Advanced_String_Functions_Regex_Clause/find_users_with_valid_emails.sql) | 
 
 
+### Miscellaneous
+| S.No. | Problem | Approach/Logic used | Level | Link | Solution |
+|-------|---------|---------------------|-------|------|----------|
+| 51 | hack |  | Easy | [view]() | [view]() | 
+
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
