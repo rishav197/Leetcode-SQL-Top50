@@ -96,7 +96,7 @@
 |-------|---------|---------------------|-------|------|----------|
 | 51 | Employees earning more than their Managers |  | Easy | [view](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Employees_earning_more_than_their_managers.sql) | 
 | 52 | Duplicate Emails |  | Easy | [view](https://leetcode.com/problems/duplicate-emails/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/duplicate_emails.sql) |
-| 52 | hack |  | Easy | [view]() | [view]() |
+| 53 | Daily Leads and Partners |  | Easy | [view](https://leetcode.com/problems/daily-leads-and-partners/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/daily_leads_and_partners.sql) |
 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
