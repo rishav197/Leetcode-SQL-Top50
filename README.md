@@ -97,8 +97,8 @@
 | 51 | Employees earning more than their Managers |  | Easy | [view](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Employees_earning_more_than_their_managers.sql) | 
 | 52 | Duplicate Emails |  | Easy | [view](https://leetcode.com/problems/duplicate-emails/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/duplicate_emails.sql) |
 | 53 | Daily Leads and Partners |  | Easy | [view](https://leetcode.com/problems/daily-leads-and-partners/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/daily_leads_and_partners.sql) |
-| 54 | Customers Who Never Order |  | Easy | [view]() | [view]() | 
-| 55 | Customer Placing the Largest Number of Orders |  | Easy | [view]() | [view]() | 
+| 54 | Customers Who Never Order |  | Easy | [view](https://leetcode.com/problems/customers-who-never-order/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/cust_who_never_order.sql) | 
+| 55 | Customer Placing the Largest Number of Orders |  | Easy | [view](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/cust_placing_the_largest_num_of_orders.sql) | 
 | 56 | Game Play Analysis I |  | Easy | [view](https://leetcode.com/problems/game-play-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/game_play_analysis_I.sql) | 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
