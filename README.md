@@ -99,8 +99,7 @@
 | 53 | Daily Leads and Partners |  | Easy | [view](https://leetcode.com/problems/daily-leads-and-partners/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/daily_leads_and_partners.sql) |
 | 54 | Customers Who Never Order |  | Easy | [view]() | [view]() | 
 | 55 | Customer Placing the Largest Number of Orders |  | Easy | [view]() | [view]() | 
-| 56 | 
-Game Play Analysis I |  | Easy | [view](https://leetcode.com/problems/game-play-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/game_play_analysis_I.sql) | 
+| 56 | Game Play Analysis I |  | Easy | [view](https://leetcode.com/problems/game-play-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/game_play_analysis_I.sql) | 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
