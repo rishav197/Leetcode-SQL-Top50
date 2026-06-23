@@ -14,18 +14,14 @@ where 3 > (
 
 
 -- approach : using Window Function 
-select d.name as Department, e.name as Employee, e.Salary
-from Employee e inner join Department d 
-on e.departmentId=d.id
-where (d.name, e.salary) in (
-    select name, salary
-    from (
-    select distinct d.name, e.salary, dense_rank() over(partition by d.name order by e.salary desc) as row_num
+select Department, name as Employee, salary as Salary
+from (
+    select 
+        d.name as Department, e.name, e.salary, 
+        dense_rank() over(partition by d.name order by e.salary desc) as row_num
     from Employee e inner join Department d 
     on e.departmentId=d.id
     order by e.salary desc
-    ) as top3_sal
-    where row_num<=3 
-    order by name
-)
-order by Department;
+) as temp
+where temp.row_num<=3
+order by Department
