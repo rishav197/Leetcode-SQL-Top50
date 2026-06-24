@@ -100,6 +100,8 @@
 | 54 | Customers Who Never Order |  | Easy | [view](https://leetcode.com/problems/customers-who-never-order/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/cust_who_never_order.sql) | 
 | 55 | Customer Placing the Largest Number of Orders |  | Easy | [view](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/cust_placing_the_largest_num_of_orders.sql) | 
 | 56 | Game Play Analysis I |  | Easy | [view](https://leetcode.com/problems/game-play-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/game_play_analysis_I.sql) | 
+| 57 | Find Total Time Spent by Each Employee |  | Easy | [view](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/find_time_spent_by_each_employee.sql) | 
+| 58 | Rearrange Products Table |  | Easy | [view](https://leetcode.com/problems/rearrange-products-table/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/rearrange_prods_table.sql) | 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 -->
