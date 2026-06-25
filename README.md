@@ -102,6 +102,9 @@
 | 56 | Game Play Analysis I |  | Easy | [view](https://leetcode.com/problems/game-play-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/game_play_analysis_I.sql) | 
 | 57 | Find Total Time Spent by Each Employee |  | Easy | [view](https://leetcode.com/problems/find-total-time-spent-by-each-employee/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/find_time_spent_by_each_employee.sql) | 
 | 58 | Rearrange Products Table |  | Easy | [view](https://leetcode.com/problems/rearrange-products-table/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/rearrange_prods_table.sql) | 
+| 59 | SalesPerson |  | Easy | [view](https://leetcode.com/problems/sales-person/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/sales_person.sql) | 
+| 60 | Nth Highest Salary (IMP) |  | Medium | [view](https://leetcode.com/problems/nth-highest-salary/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/nth_highest_salary.sql) | 
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
+| 1 | hack |  | Medium | [view]() | [view]() | 
 -->
