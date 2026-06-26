@@ -104,6 +104,10 @@
 | 58 | Rearrange Products Table |  | Easy | [view](https://leetcode.com/problems/rearrange-products-table/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/rearrange_prods_table.sql) | 
 | 59 | SalesPerson |  | Easy | [view](https://leetcode.com/problems/sales-person/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/sales_person.sql) | 
 | 60 | Nth Highest Salary (IMP) | same approach as problem 47 | Medium | [view](https://leetcode.com/problems/nth-highest-salary/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/nth_highest_salary.sql) | 
+| 61 | Swap Sex of Employees | Using IF() and Case Statement | Easy | [view](https://leetcode.com/problems/swap-sex-of-employees/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/swap_sex_of_emp.sql) | 
+| 62 | Actors and Directors Who Cooperated At Least Three Times |  | Easy | [view](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/actors_and_directors_who_cooperated_atleast_three_times.sql) | 
+| 63 | The Latest Login in 2020 |  | Easy | [view](https://leetcode.com/problems/the-latest-login-in-2020/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/the_latest_login_in_2020.sql) | 
+
 <!-- 
 | 1 | hack |  | Easy | [view]() | [view]() | 
 | 1 | hack |  | Medium | [view]() | [view]() | 
