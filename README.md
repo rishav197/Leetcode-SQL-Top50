@@ -110,8 +110,12 @@
 | 64 | Sales Analysis III |  | Easy | [view](https://leetcode.com/problems/sales-analysis-iii/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/sales_analysis_III.sql) | 
 | 65 | Top Travellers |  | Easy | [view](https://leetcode.com/problems/top-travellers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/top_travellers.sql) | 
 | 66 | Reformat Department Table (IMP) |  | Easy | [view](https://leetcode.com/problems/reformat-department-table/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/reformat_dept_table.sql) | 
-| 67 | Find Books with No Available Copies |  | Easy | [view](https://leetcode.com/problems/find-books-with-no-available-copies/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_books_with_no_available_copies.sql) | 
-| 68 | Find Users with High Token Usage (IMP) | two approaches used | Easy | [view](https://leetcode.com/problems/find-users-with-high-token-usage/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_users_with_high_token_usage.sql) | 
+| 67 | Bank Account Summary II |  | Easy | [view](https://leetcode.com/problems/bank-account-summary-ii/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/bank_account_summary_II.sql) | 
+| 68 | Calculate Special Bonus |  | Easy | [view](https://leetcode.com/problems/calculate-special-bonus/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/calculate_special_bonus.sql) | 
+| 69 | Employees with Missing Information |  | Easy | [view](https://leetcode.com/problems/employees-with-missing-information/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/employees_with_missing_info.sql) | 
+| 70 | Find Valid Emails (IMP) | Regex used | Easy | [view](https://leetcode.com/problems/find-valid-emails/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_valid_emails.sql) | 
+| 71 | Find Books with No Available Copies |  | Easy | [view](https://leetcode.com/problems/find-books-with-no-available-copies/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_books_with_no_available_copies.sql) | 
+| 72 | Find Users with High Token Usage (IMP) | two approaches used | Easy | [view](https://leetcode.com/problems/find-users-with-high-token-usage/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_users_with_high_token_usage.sql) | 
 
 
 <!-- 
