@@ -116,9 +116,6 @@
 | 70 | Find Valid Emails (IMP) | Regex used | Easy | [view](https://leetcode.com/problems/find-valid-emails/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_valid_emails.sql) | 
 | 71 | Find Books with No Available Copies |  | Easy | [view](https://leetcode.com/problems/find-books-with-no-available-copies/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_books_with_no_available_copies.sql) | 
 | 72 | Find Users with High Token Usage (IMP) | two approaches used | Easy | [view](https://leetcode.com/problems/find-users-with-high-token-usage/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Easy/find_users_with_high_token_usage.sql) | 
-
-| S.No. | Problem | Approach/Logic used | Level | Link | Solution |
-|-------|---------|---------------------|-------|------|----------|
 | 73 | Rank Scores | window func used | Medium | [view](https://leetcode.com/problems/rank-scores/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/rank_scores.sql) | 
 | 74 | Tree Node |  | Medium | [view](https://leetcode.com/problems/tree-node/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/tree_node.sql) | 
 
