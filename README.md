@@ -119,7 +119,7 @@
 | 73 | Rank Scores | window func used | Medium | [view](https://leetcode.com/problems/rank-scores/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/rank_scores.sql) | 
 | 74 | Tree Node |  | Medium | [view](https://leetcode.com/problems/tree-node/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/tree_node.sql) | 
 | 75 | Market Analysis I |  | Medium | [view](https://leetcode.com/problems/market-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/market_analysis_I.sql) | 
-| 76 | Capital Gain/Loss | two approaches used | Medium | [view](https://leetcode.com/problems/capital-gainloss/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/capital_gain_loss.sql) | 
+| 76 | Capital Gain/Loss (IMP) | two approaches used | Medium | [view](https://leetcode.com/problems/capital-gainloss/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/capital_gain_loss.sql) | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
