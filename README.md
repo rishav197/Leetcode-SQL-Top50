@@ -120,6 +120,10 @@
 | 74 | Tree Node |  | Medium | [view](https://leetcode.com/problems/tree-node/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/tree_node.sql) | 
 | 75 | Market Analysis I |  | Medium | [view](https://leetcode.com/problems/market-analysis-i/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/market_analysis_I.sql) | 
 | 76 | Capital Gain/Loss (IMP) | two approaches used | Medium | [view](https://leetcode.com/problems/capital-gainloss/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/capital_gain_loss.sql) | 
+| 77 | Odd and Even Transactions |  | Medium | [view](https://leetcode.com/problems/odd-and-even-transactions/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/odd_and_even_transactions.sql) | 
+| 78 | DNA Pattern Recognition (IMP) | IF() & Regexp used | Medium | [view](https://leetcode.com/problems/dna-pattern-recognition/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/dna_pattern_recognition.sql) | 
+| 79 | Analyze Subscription Conversion (IMP) |  | Medium | [view](https://leetcode.com/problems/analyze-subscription-conversion/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/analyze_subscription_conversion.sql) | 
+
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
