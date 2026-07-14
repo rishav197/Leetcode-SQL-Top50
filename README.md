@@ -125,9 +125,9 @@
 | 79 | Analyze Subscription Conversion (IMP) |  | Medium | [view](https://leetcode.com/problems/analyze-subscription-conversion/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/analyze_subscription_conversion.sql) | 
 | 80 | Find Students Who Improved (IMP) | Two approaches are used: one using window functions and the other using window functions with a JOIN | Medium | [view](https://leetcode.com/problems/find-students-who-improved/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_students_who_improved.sql) | 
 | 81 | Seasonal Sales Analysis (IMP) | Join & Window function used | Medium | [view](https://leetcode.com/problems/seasonal-sales-analysis/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/seasonal_sales_analysis.sql) | 
-| 82 | Find Product Recommendation Pairs |  | Medium | [view](https://leetcode.com/problems/find-product-recommendation-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_product_recommendation_pairs.sql) | 
+| 82 | Find Product Recommendation Pairs (IMP) | Self join & CTE used | Medium | [view](https://leetcode.com/problems/find-product-recommendation-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_product_recommendation_pairs.sql) | 
 | 83 | Find Loyal Customers |  | Medium | [view](https://leetcode.com/problems/find-loyal-customers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_loyal_customers.sql) | 
-
+| 84 | Find Consistently Improving Employees |  | Medium | [view](https://leetcode.com/problems/find-consistently-improving-employees/description/) | [view]() | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
