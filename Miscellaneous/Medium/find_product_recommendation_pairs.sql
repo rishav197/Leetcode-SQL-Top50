@@ -1,3 +1,4 @@
+-- approach : self join & CTE used
 with cte as (
     select pp1.product_id as product1_id, pp2.product_id as product2_id, count(*) as customer_count 
     from ProductPurchases pp1,ProductPurchases pp2
