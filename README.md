@@ -128,6 +128,7 @@
 | 82 | Find Product Recommendation Pairs (IMP) | Self join & CTE used | Medium | [view](https://leetcode.com/problems/find-product-recommendation-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_product_recommendation_pairs.sql) | 
 | 83 | Find Loyal Customers |  | Medium | [view](https://leetcode.com/problems/find-loyal-customers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_loyal_customers.sql) | 
 | 84 | Find Consistently Improving Employees (IMP) | two approaches are used: one using Join, Window Funct & CTE and other using Join, Window Funct, Case Statement & CTE | Medium | [view](https://leetcode.com/problems/find-consistently-improving-employees/description/) | [view]() | 
+| 85 | Find Emotionally Consistent Users (IMP) | two approaches used | Medium | [view]() | [view]() | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
