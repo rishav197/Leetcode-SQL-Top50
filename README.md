@@ -129,6 +129,7 @@
 | 83 | Find Loyal Customers |  | Medium | [view](https://leetcode.com/problems/find-loyal-customers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_loyal_customers.sql) | 
 | 84 | Find Consistently Improving Employees (IMP) | two approaches are used: one using Join, Window Funct & CTE and other using Join, Window Funct, Case Statement & CTE | Medium | [view](https://leetcode.com/problems/find-consistently-improving-employees/description/) | [view]() | 
 | 85 | Find Emotionally Consistent Users (IMP) | two approaches used | Medium | [view](https://leetcode.com/problems/find-emotionally-consistent-users/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_emotionally_consistent_users.sql) | 
+| 86 | Find Stores with Inventory Imbalance (IMP) |  | Medium | [view](https://leetcode.com/problems/find-stores-with-inventory-imbalance/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_stores_with_inventory_imbalance.sql) | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
