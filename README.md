@@ -130,6 +130,8 @@
 | 84 | Find Consistently Improving Employees (IMP) | two approaches are used: one using Join, Window Funct & CTE and other using Join, Window Funct, Case Statement & CTE | Medium | [view](https://leetcode.com/problems/find-consistently-improving-employees/description/) | [view]() | 
 | 85 | Find Emotionally Consistent Users (IMP) | two approaches used | Medium | [view](https://leetcode.com/problems/find-emotionally-consistent-users/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_emotionally_consistent_users.sql) | 
 | 86 | Find Stores with Inventory Imbalance (IMP) | two approaches used | Medium | [view](https://leetcode.com/problems/find-stores-with-inventory-imbalance/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_stores_with_inventory_imbalance.sql) | 
+| 87 | Find drivers with improved fuel efficiency |  | Medium | [view](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_drivers_with_improved_fuel_efficiency.sql) | 
+
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
