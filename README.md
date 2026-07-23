@@ -134,6 +134,7 @@
 | 88 | Find Churn Risk Customers | cte, groupby & datediff used | Medium | [view](https://leetcode.com/problems/find-churn-risk-customers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_churn_risk_customers.sql) | 
 | 89 | Find Overbooked Employees (IMP) | using CTE, groupby with agg funct & Date funct (YEARWEEK(date, mode))  | Medium | [view](https://leetcode.com/problems/find-overbooked-employees/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_overbooked_employees.sql) | 
 | 90 | Find COVID Recovery Patients (IMP) |  | Medium | [view](https://leetcode.com/problems/find-covid-recovery-patients/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_covid_recovery_patients.sql) | 
+| 91 | Department Highest Salary (IMP) |  | Medium | [view](https://leetcode.com/problems/department-highest-salary/description/) | [view]() | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
