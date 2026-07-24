@@ -135,6 +135,7 @@
 | 89 | Find Overbooked Employees (IMP) | using CTE, groupby with agg funct & Date funct (YEARWEEK(date, mode))  | Medium | [view](https://leetcode.com/problems/find-overbooked-employees/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_overbooked_employees.sql) | 
 | 90 | Find COVID Recovery Patients (IMP) | CTE, datediff(), self-join & groupby with agg funct used | Medium | [view](https://leetcode.com/problems/find-covid-recovery-patients/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_covid_recovery_patients.sql) | 
 | 91 | Department Highest Salary (IMP) | two approaches used, one using co-related subquery and other one is using window funct | Medium | [view](https://leetcode.com/problems/department-highest-salary/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/department_highest_salary.sql) | 
+| 92 | Find Books with Polarized Opinions |  | Medium | [view](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_books_with_polarized_opinions.sql) | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
