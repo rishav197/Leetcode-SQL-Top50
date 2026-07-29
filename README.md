@@ -137,6 +137,7 @@
 | 91 | Department Highest Salary (IMP) | two approaches used, one using co-related subquery and other one is using window funct | Medium | [view](https://leetcode.com/problems/department-highest-salary/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/department_highest_salary.sql) | 
 | 92 | Find Books with Polarized Opinions |  | Medium | [view](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_books_with_polarized_opinions.sql) | 
 | 93 | Find Golden Hour Customers | using groupby, CTE, & time funct | Medium | [view](https://leetcode.com/problems/find-golden-hour-customers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_golden_hour_customers.sql) | 
+| 94 | Find Category Recommendation Pairs (IMP) | Using self-join, left join & CTE | Medium | [view](https://leetcode.com/problems/find-category-recommendation-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/find_category_recommendation_pairs.sql) | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
