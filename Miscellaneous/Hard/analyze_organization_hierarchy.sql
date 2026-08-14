@@ -1,4 +1,4 @@
--- approach : Recursive CTE used (Hardest leetcode SQL problem ever)
+-- approach : Recursive CTE used (Toughest leetcode SQL problem ever)
 
 with recursive cte as (
     select employee_id, employee_name, manager_id, 1 as level
