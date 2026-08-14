@@ -139,6 +139,7 @@
 | 93 | Find Golden Hour Customers | using groupby, CTE, & time funct | Medium | [view](https://leetcode.com/problems/find-golden-hour-customers/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Medium/find_golden_hour_customers.sql) | 
 | 94 | Find Category Recommendation Pairs (IMP) | Using self-join, left join & CTE | Hard | [view](https://leetcode.com/problems/find-category-recommendation-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/find_category_recommendation_pairs.sql) | 
 | 95 | Analyze Organization Hierarchy | Recursive CTE used (Hardest leetcode SQL problem ever) | Hard | [view](https://leetcode.com/problems/analyze-organization-hierarchy/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/analyze_organization_hierarchy.sql) | 
+| 96 | Human Traffic of Stadium | Window funct, CTE & consecutive concept used | Hard | [view](https://leetcode.com/problems/human-traffic-of-stadium/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/human_traffic_of_stadium.sql) | 
 
 <!-- 
 | 1 | hack |  | Medium | [view]() | [view]() | 
