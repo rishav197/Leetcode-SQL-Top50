@@ -6,7 +6,7 @@ with recursive cte as (
     where manager_id is null
     union 
     select e.employee_id, e.employee_name, e.manager_id, c.level+1 as level
-    from Employees as e
+    from Employees as es
     inner join cte as c
     on e.manager_id = c.employee_id 
 ),
