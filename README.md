@@ -140,7 +140,8 @@
 | 94 | Find Category Recommendation Pairs (IMP) | Using self-join, left join & CTE | Hard | [view](https://leetcode.com/problems/find-category-recommendation-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/find_category_recommendation_pairs.sql) | 
 | 95 | Analyze Organization Hierarchy (IMP) | Recursive CTE used (Hardest leetcode SQL problem ever) | Hard | [view](https://leetcode.com/problems/analyze-organization-hierarchy/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/analyze_organization_hierarchy.sql) | 
 | 96 | Human Traffic of Stadium (IMP) | Window funct, CTE & consecutive concept used | Hard | [view](https://leetcode.com/problems/human-traffic-of-stadium/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/human_traffic_of_stadium.sql) | 
+| 97 | Most Common Course Pairs (IMP) | two approaches used, one is using LEAD() funct and other one is using Self-Join | Hard | [view](https://leetcode.com/problems/most-common-course-pairs/description/) | [view](https://github.com/rishav197/Leetcode-SQL-Top50/blob/main/Miscellaneous/Hard/most_common_course_pairs.sql) | 
 
 <!-- 
-| 1 | hack |  | Medium | [view]() | [view]() | 
+| 1 | hack |  | Hard | [view]() | [view]() | 
 -->
